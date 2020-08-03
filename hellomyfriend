@@ -1,1 +1,2 @@
-'Hello world' // comments
+'Hello world'
+console.log('Hello Hell')
